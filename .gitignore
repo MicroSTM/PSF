@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.sh
+*.xlsx
+*.ipynb_checkpoints
+checkpoints/
+record_replay/
+data/
