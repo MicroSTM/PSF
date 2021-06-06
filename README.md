@@ -13,7 +13,7 @@ python -m experiments.train_physical --dataset collision
 
 2. Training spring
 ```
-python -m experiments.train_spring --dataset spring
+python -m experiments.train_physical --dataset spring
 ```
 
 ### Training soical potentials.
